@@ -1,0 +1,50 @@
+{
+  "name": "Second Wind 1.9.14-alpha-6 | Switch Bilingual Edition",
+  "image": "https://images.gamebanana.com/img/ss/projects/605b3ef35fe1e.jpg",
+  "url": "",
+  "desc": "A bilingual Switch home for Second Wind 1.9.14-alpha-6. English (EU/US) and Simplified Chinese share one BNP, with optional Linkle equipment/dialogue compatibility and quieter Outset Island village music. This unofficial integration brings the existing fixes together without including the Linkle character mod. AI helped with dialogue adaptation, troubleshooting, scripts and validation summaries; new combinations still need in-game testing. Original creators retain their rights. Port/integration: Mi Laoshu & Kugou. Optional recording: contributor-reported non-commercial use; see THIRD_PARTY_NOTICES.md.",
+  "version": "1.9.14-alpha-6-bilingual.20261026.2",
+  "options": {
+    "multi": [
+      {
+        "name": "Eventide Island Fix [Required]",
+        "desc": "Keeps the existing Eventide Island fix: removes selected Koroks to stay within overworld actor limits and adjusts the 900-seed Hestu reward.",
+        "folder": "Eventide Fix",
+        "default": true
+      },
+      {
+        "name": "Shrine Overhaul",
+        "desc": "Remixes existing shrines with Second Wind enemies, obstacles, puzzles, and visual changes. Core new shrines and their quest flags remain in the main package.",
+        "folder": "Shrine Overhaul",
+        "default": true
+      },
+      {
+        "name": "Linkle: Second Wind Equipment Compatibility",
+        "desc": "Optional Linkle meshes, hair, skinning, and physics compatibility for Second Wind equipment, including five previously diagnosed support-bone budget safeguards. Requires a separately installed Linkle character mod. Leave disabled when playing as Link.",
+        "folder": "Linkle SW Equipment Compatibility",
+        "default": false
+      },
+      {
+        "name": "Linkle: Bilingual Dialogue Compatibility",
+        "desc": "Adapts protagonist names, forms of address, and context-specific gender references for Linkle in English (EU/US) and Simplified Chinese. Preserves control codes and references to other characters. Does not replace voices or include the Linkle character mod. Leave disabled when playing as Link.",
+        "folder": "Linkle Dialogue Compatibility",
+        "default": false
+      },
+      {
+        "name": "Village Music: Outset Island [Non-Commercial Audio]",
+        "desc": "Uses the supplied Arcade Player recording for the Second Wind village. Includes both legacy and current music names, SLink event bindings, loop registration, and the village map trigger. Village music volume is reduced from 0.45 to 0.25; all other music is unchanged. Full SLink database replacement may need coordination with other sound-event mods.",
+        "folder": "Outset Island Village Music",
+        "default": false
+      }
+    ],
+    "single": []
+  },
+  "depends": [],
+  "showCompare": false,
+  "showConvert": false,
+  "platform": "switch",
+  "priority": "base",
+  "id": "U2Vjb25kIFdpbmQgMS45LjE0LWFscGhhLTYgfCBTd2l0Y2ggQmlsaW5ndWFsIEVkaXRpb249PTEuOS4xNC1hbHBoYS02LWJpbGluZ3VhbC4yMDI2MTAyNi4y",
+  "ported_by": "米老鼠和酷狗",
+  "author": "米老鼠和酷狗"
+}

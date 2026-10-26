@@ -1,0 +1,12 @@
+{
+  "release": "1.9.14-alpha-6-bilingual.20261026.2",
+  "asset": "SecondWind_1.9.14-alpha-6_Switch_Bilingual_EN-ZH_20261026_r2.bnp",
+  "bytes": 673504340,
+  "sha256": "abbe62c13687d9f418ff187d30b13a2071a7510d2cdced99f8e4324e70e3897c",
+  "files": 4110,
+  "integrity_test": true,
+  "full_archive_extraction_sha256_matches": 4110,
+  "static_option_validation": true,
+  "BCML_executed": false,
+  "game_playback_and_full_combination_regression_tested": false
+}

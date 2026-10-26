@@ -1,0 +1,19 @@
+# Proprietary/private authoring inputs and generated artifacts
+*.bnp
+*.zip
+*.7z
+*.rar
+*.xci
+*.nsp
+*.nca
+*.keys
+prod.keys
+title.keys
+*.exe
+*.dll
+*.log
+*.dmp
+__pycache__/
+.work/
+sources/
+outputs/

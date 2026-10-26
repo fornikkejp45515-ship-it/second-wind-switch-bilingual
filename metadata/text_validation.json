@@ -1,0 +1,46 @@
+{
+  "languages": {
+    "EUen": {
+      "tables": 189,
+      "entries": 865
+    },
+    "USen": {
+      "tables": 189,
+      "entries": 865
+    }
+  },
+  "reviewed_previous_CN_targets": 975,
+  "reviewed_new_SW_title_address_candidates": 71,
+  "reviewed_additional_SW_pronoun_candidates": 238,
+  "reviewed_additional_SW_address_candidates": 24,
+  "reviewed_additional_stock_name_candidates": 27,
+  "reviewed_additional_stock_address_candidates": 49,
+  "source_entry_pairs_considered": 1116,
+  "unchanged_source_pairs_not_emitted": 502,
+  "preserved_control_nodes": true,
+  "preserved_entry_attributes": true,
+  "compiled_roundtrip_tables": 378,
+  "english_CJK_entries": 0,
+  "BCML_executed": false,
+  "runtime_tested": false,
+  "method": "Proper-name normalization plus context-keyed pronouns and selected direct-address transformations; no global he/him/man replacement. Other named characters, family relations, Goron culture and generic expressions preserved.",
+  "text_node_positions_preserved": true,
+  "literal_Link_or_Linky_in_changed_entries": 0,
+  "texts_sha256": "f80aace6657f886c0cf8e106594451daf28bcbfa3a43ce6b0af3a2db6d6d8398",
+  "all_SW_english_source_entries_scanned": 7100,
+  "residual_male_terms_reviewed_preserved_except_GoronCamp_Talk80_corrected": true,
+  "main_languages": {
+    "EUen": {
+      "tables": 219,
+      "entries": 7100
+    },
+    "CNzh": {
+      "tables": 219,
+      "entries": 7100
+    },
+    "USen": {
+      "tables": 219,
+      "entries": 7100
+    }
+  }
+}

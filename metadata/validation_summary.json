@@ -1,0 +1,51 @@
+{
+  "release": "1.9.14-alpha-6-bilingual.20261026.2",
+  "platform": "Switch",
+  "baseline": "Second Wind 1.9.14-alpha-6 Switch r4",
+  "languages": {
+    "CNzh": {
+      "main_entries": 7100,
+      "linkle_entries": 975
+    },
+    "EUen": {
+      "main_entries": 7100,
+      "linkle_entries": 865
+    },
+    "USen": {
+      "main_entries": 7100,
+      "linkle_entries": 865
+    }
+  },
+  "english_msbt_roundtrip_tables": 378,
+  "english_control_nodes_preserved": true,
+  "existing_chinese_main_and_linkle_logs_preserved": true,
+  "main_gameplay_logs_preserved": true,
+  "main_and_optional_message_archives_measured": true,
+  "english_option_UI": true,
+  "village_music": {
+    "previous_user_report": "Playback route working",
+    "volume_before": 0.45,
+    "volume_after": 0.25,
+    "stream_reencoded": false,
+    "original_slink_users_preserved": 1291,
+    "only_added_slink_users": [
+      "OrdonVillageBgm",
+      "SWOutsetVillageBgm"
+    ],
+    "LaboursShrine_registration_preserved": true,
+    "optional_map_trigger_present": true,
+    "unrelated_shortcut_mod_events_included": false,
+    "generic_slink_merge_support_claimed": false
+  },
+  "manager_install_merge_export_executed": false,
+  "live_game_files_modified": false,
+  "full_new_combination_gameplay_verified": false,
+  "permission_record": "Contributor reports Second Wind author permission, Linkle adaptation-only material, and non-commercial recording permission; individual rights retained.",
+  "ai_assistance_disclosed": true,
+  "ai_assistance_scope": [
+    "dialogue adaptation",
+    "troubleshooting",
+    "script preparation",
+    "validation documentation"
+  ]
+}
